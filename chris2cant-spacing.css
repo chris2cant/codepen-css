@@ -1,0 +1,62 @@
+/* Inset (Margin around) */
+.inset-xs {
+  margin: 8px;
+}
+
+.inset-s {
+  margin: 16px;
+}
+
+.inset-m {
+  margin: 24px;
+}
+
+.inset-l {
+  margin: 32px;
+}
+
+.inset-xl {
+  margin: 40px;
+}
+
+/* Inline (Margin after the content) */
+.inline-xs {
+  margin-right: 8px;
+}
+
+.inline-s {
+  margin-right: 16px;
+}
+
+.inline-m {
+  margin-right: 24px;
+}
+
+.inline-l {
+  margin-right: 32px;
+}
+
+.inline-xl {
+  margin-right: 40px;
+}
+
+/* Stack (Margin under the content) */
+.stack-xs {
+  margin-bottom: 8px;
+}
+
+.stack-s {
+  margin-bottom: 16px;
+}
+
+.stack-m {
+  margin-bottom: 24px;
+}
+
+.stack-l {
+  margin-bottom: 32px;
+}
+
+.stack-xl {
+  margin-bottom: 40px;
+}
